@@ -1,0 +1,4 @@
+name: opsguard-ingest
+description: Forward real Telegram business messages into OpsGuard
+events:
+  - agent:start
